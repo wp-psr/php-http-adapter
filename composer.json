@@ -1,0 +1,14 @@
+{
+    "name": "wp-psr/php-http-adapter",
+    "description": "The WordPress Request adapter for HTTPlug",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WordPress PSR",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
